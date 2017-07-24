@@ -1,0 +1,7 @@
+JarIndex-Version: 1.0
+
+catalina-manager.jar
+org/apache
+org/apache/catalina/manager
+org/apache/catalina
+org
